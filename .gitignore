@@ -1,0 +1,16 @@
+
+# Raw dataset files
+data/*.csv
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and local configuration
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
